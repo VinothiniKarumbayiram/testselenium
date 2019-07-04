@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class MavenProject {
 
 	public static void main(String[] args) throws InterruptedException {
-		
+		//Vino
 		System.setProperty("webdriver.chrome.driver", "D:/selenium chrome/New folder/chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://connect.maveric-systems.com/index.php/site/login");
