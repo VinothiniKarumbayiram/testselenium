@@ -10,6 +10,7 @@ public class MavenProject {
 		//Vino
 		//surya
 		//commit message
+		//Done
 		System.setProperty("webdriver.chrome.driver", "D:/selenium chrome/New folder/chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://connect.maveric-systems.com/index.php/site/login");
